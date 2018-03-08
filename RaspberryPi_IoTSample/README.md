@@ -23,7 +23,7 @@ For more details see the
 These instructions will help you get this project up and running on your Rasberry Pi and iOS device. **Note that this project was built using the BBM-E SDK version 1.1.0.18 for iOS**
 
 ### Prerequisites
-**Important Note:** This project requires you have [this Node.js sample](https://github.com/blackberry/bbme-sdk-javascript-samples/raspberryPi_IoT_Sample) running on a Raspberry Pi 3. Refer to the Node.js sample [README.md](https://github.com/blackberry/bbme-sdk-javascript-samples/raspberryPi_IoT_Sample) for instructions on setting up the Raspberry Pi.
+**Important Note:** This project requires you have [this Node.js sample](https://github.com/blackberry/bbme-sdk-javascript-samples/raspberryPi_IoTSample) running on a Raspberry Pi 3. Refer to the Node.js sample [README.md](https://github.com/blackberry/bbme-sdk-javascript-samples/raspberryPi_IoTSample) for instructions on setting up the Raspberry Pi.
 
 This project also requires that you have the following:
 - Raspberry Pi 3 running Raspbian OS
