@@ -9,7 +9,7 @@ example.
 
 <p align="center">
 <br>
-    <a href="http://www.youtube.com/watch?feature=player_embedded&v=InEfjPafPas"
+    <a href="https://youtu.be/NT1-vcldMRc"
       target="_blank"><img src="screenShots/bbme-sdk-softphone.jpg" 
       alt=Integrate voice and video into your Apps" width="486" height="" border="364"/></a>
 </p>
@@ -48,7 +48,7 @@ instructions in the Developer Guide.
 * [API Reference](https://developer.blackberry.com/files/bbm-enterprise/documents/guide/reference/ios/index.html)
 
 <p align="center">
-    <a href="http://www.youtube.com/watch?feature=player_embedded&v=H1yiHSGsAIg"
+    <a href="https://youtu.be/tDfXsifzPA4"
       target="_blank"><img src="../QuickStart/screenShots/bbme-sdk-ios-getting-started.jpg" 
       alt="YouTube Getting Started Video" width="486" height="" border="364"/></a>
 </p>
